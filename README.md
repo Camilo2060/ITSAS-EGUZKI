@@ -24,3 +24,19 @@ Nuestro proyecto es un barco solar, este proyecto tenemos que llevarlo a un camp
 
 ## Procedimiento
 Para que el proyecto no se haga tan pesado y se pueda aprovechar el tiempo lo vamos a dividir en dos partes para que sea más fácil de entender. Estos serán las  2 partes:
+
+<p align="center">
+  <img width="350" height="300" src="https://github.com/Camilo2060/ITSAS-EGUZKI/blob/main/Im%C3%A1genes/icon_regata_300x300.png.png">
+-Partes que componen el proyecto y el funcionamiento de cada uno.
+-Software.
+
+## Partes que componen el proyecto y el funcionamiento de cada uno:
+El proyecto se divide en 4 partes:
+
+##-Programación: 
+
+En esta parte utilizaremos un teensy como cerebro del barco, para así poder hacer funcionar los motores de agua como los motores de la orientación de la placa solar.
+
+
+
+
