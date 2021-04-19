@@ -36,6 +36,6 @@ El proyecto se divide en 4 partes:
 En esta parte utilizaremos un teensy como cerebro del barco, para así poder hacer funcionar los motores de agua como los motores de la orientación de la placa solar.
 
  <p align="center">
-  <img width="350" height="300" src=https://github.com/Camilo2060/ITSAS-EGUZKI/blob/main/Im%C3%A1genes/TEENSY.jpg
+  <img width="350" height="300" src=![image](https://user-images.githubusercontent.com/76038880/115254765-f458e980-a12d-11eb-804d-10a0ddcbfd2b.png)
 
 
