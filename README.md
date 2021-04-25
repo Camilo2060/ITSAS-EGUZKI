@@ -23,19 +23,22 @@ Nuestro proyecto es un barco solar, este proyecto tenemos que llevarlo a un camp
 	Siguiendo estos pasos construiremos nuestro barco solar
 
 ## Procedimiento
-Para que el proyecto no se haga tan pesado y se pueda aprovechar el tiempo lo vamos a dividir en dos partes para que sea más fácil de entender. Estos serán las  2 partes:
+Para que el proyecto no se haga tan pesado y se pueda aprovechar el tiempo lo vamos a dividir en  partes para que sea más fácil de entender.
 
--Partes que componen el proyecto y el funcionamiento de cada uno.
--Software.
 
 ## Partes que componen el proyecto y el funcionamiento de cada uno:
 El proyecto se divide en 4 partes:
-
+ <p align="center">
+  <img width="500" height="400" src="https://github.com/Camilo2060/ITSAS-EGUZKI/blob/main/Im%C3%A1genes/PARTES%20DEL%20BARCO.PNG?raw=true">
+	
 ##-Programación: 
 
 En esta parte utilizaremos un teensy como cerebro del barco, para así poder hacer funcionar los motores de agua como los motores de la orientación de la placa solar.
 
- <p align="center">
-  <img width="350" height="300" src=![image](https://user-images.githubusercontent.com/76038880/115254765-f458e980-a12d-11eb-804d-10a0ddcbfd2b.png)
+Por otro lado consta de un magnetómetro (brújula) para que este informe al teensy en todo momento de su posición para la función de piloto automático.
 
+##-Mecánico:
+
+En primer lugar los patines, estos patines mantendrán a flote nuestro barco en todo momento. 
+Un chasis o esqueleto del barco, que se encargará de unir todos los componentes del barco en una sola pieza.
 
